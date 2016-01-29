@@ -15,11 +15,23 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view, typically from a nib.
     }
 
-    override func didReceiveMemoryWarning() {
-        super.didReceiveMemoryWarning()
-        // Dispose of any resources that can be recreated.
+    
+    @IBOutlet weak var resultado: UILabel!
+    
+    
+    @IBAction func numero(sender: UIButton) {
+    }
+    
+    @IBAction func limpiar(sender: UIButton) {
     }
 
-
+    @IBAction func operacion(sender: UIButton) {
+    }
+    
+    
+    
+    
+    
+    
 }
 

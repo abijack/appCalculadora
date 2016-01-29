@@ -27,6 +27,9 @@
                                 <variation key="widthClass=compact" fixedFrame="YES">
                                     <rect key="frame" x="51" y="333" width="56" height="41"/>
                                 </variation>
+                                <connections>
+                                    <action selector="numero:" destination="BYZ-38-t0r" eventType="touchUpInside" id="mwD-vo-wIi"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Z5o-jZ-Q1P">
                                 <rect key="frame" x="-23" y="-15" width="46" height="30"/>
@@ -38,6 +41,9 @@
                                 <variation key="widthClass=compact" fixedFrame="YES">
                                     <rect key="frame" x="51" y="392" width="120" height="41"/>
                                 </variation>
+                                <connections>
+                                    <action selector="numero:" destination="BYZ-38-t0r" eventType="touchUpInside" id="E7d-5o-3yr"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="EnO-lG-qwD">
                                 <rect key="frame" x="-23" y="-15" width="46" height="30"/>
@@ -49,6 +55,9 @@
                                 <variation key="widthClass=compact" fixedFrame="YES">
                                     <rect key="frame" x="115" y="333" width="56" height="41"/>
                                 </variation>
+                                <connections>
+                                    <action selector="numero:" destination="BYZ-38-t0r" eventType="touchUpInside" id="UFH-y4-r4h"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="m6t-EP-JH2">
                                 <rect key="frame" x="-23" y="-15" width="46" height="30"/>
@@ -60,6 +69,9 @@
                                 <variation key="widthClass=compact" fixedFrame="YES">
                                     <rect key="frame" x="179" y="333" width="56" height="41"/>
                                 </variation>
+                                <connections>
+                                    <action selector="numero:" destination="BYZ-38-t0r" eventType="touchUpInside" id="GvL-9J-leV"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="GyO-gx-z7c">
                                 <rect key="frame" x="-23" y="-15" width="46" height="30"/>
@@ -71,6 +83,9 @@
                                 <variation key="widthClass=compact" fixedFrame="YES">
                                     <rect key="frame" x="51" y="272" width="56" height="41"/>
                                 </variation>
+                                <connections>
+                                    <action selector="numero:" destination="BYZ-38-t0r" eventType="touchUpInside" id="YqA-MQ-gxK"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Qpc-4L-94e">
                                 <rect key="frame" x="-23" y="-15" width="46" height="30"/>
@@ -82,6 +97,9 @@
                                 <variation key="widthClass=compact" fixedFrame="YES">
                                     <rect key="frame" x="115" y="272" width="56" height="41"/>
                                 </variation>
+                                <connections>
+                                    <action selector="numero:" destination="BYZ-38-t0r" eventType="touchUpInside" id="rH7-Xp-Ppf"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="KO7-hg-7eq">
                                 <rect key="frame" x="-23" y="-15" width="46" height="30"/>
@@ -93,6 +111,9 @@
                                 <variation key="widthClass=compact" fixedFrame="YES">
                                     <rect key="frame" x="179" y="272" width="56" height="41"/>
                                 </variation>
+                                <connections>
+                                    <action selector="numero:" destination="BYZ-38-t0r" eventType="touchUpInside" id="lA8-0r-bTx"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="sbJ-O7-70h">
                                 <rect key="frame" x="-23" y="-15" width="46" height="30"/>
@@ -104,6 +125,9 @@
                                 <variation key="widthClass=compact" fixedFrame="YES">
                                     <rect key="frame" x="51" y="212" width="56" height="41"/>
                                 </variation>
+                                <connections>
+                                    <action selector="numero:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Mzy-ZN-CKA"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Ru2-lv-xAJ">
                                 <rect key="frame" x="-23" y="-15" width="46" height="30"/>
@@ -115,6 +139,9 @@
                                 <variation key="widthClass=compact" fixedFrame="YES">
                                     <rect key="frame" x="115" y="212" width="56" height="41"/>
                                 </variation>
+                                <connections>
+                                    <action selector="numero:" destination="BYZ-38-t0r" eventType="touchUpInside" id="iaX-th-SOt"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="yx9-Q7-7To">
                                 <rect key="frame" x="-23" y="-15" width="46" height="30"/>
@@ -126,6 +153,9 @@
                                 <variation key="widthClass=compact" fixedFrame="YES">
                                     <rect key="frame" x="179" y="212" width="56" height="41"/>
                                 </variation>
+                                <connections>
+                                    <action selector="numero:" destination="BYZ-38-t0r" eventType="touchUpInside" id="6cJ-8U-FXf"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cJZ-yP-c5R">
                                 <rect key="frame" x="-23" y="-15" width="46" height="30"/>
@@ -148,6 +178,9 @@
                                 <variation key="widthClass=compact" fixedFrame="YES">
                                     <rect key="frame" x="243" y="333" width="56" height="41"/>
                                 </variation>
+                                <connections>
+                                    <action selector="operacion:" destination="BYZ-38-t0r" eventType="touchUpInside" id="yfc-rH-t7g"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="oWM-Nr-l4N">
                                 <rect key="frame" x="-23" y="-15" width="46" height="30"/>
@@ -159,6 +192,9 @@
                                 <variation key="widthClass=compact" fixedFrame="YES">
                                     <rect key="frame" x="243" y="272" width="56" height="41"/>
                                 </variation>
+                                <connections>
+                                    <action selector="operacion:" destination="BYZ-38-t0r" eventType="touchUpInside" id="gWt-I9-Dkw"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="18r-oZ-kDi">
                                 <rect key="frame" x="-23" y="-15" width="46" height="30"/>
@@ -170,6 +206,9 @@
                                 <variation key="widthClass=compact" fixedFrame="YES">
                                     <rect key="frame" x="243" y="392" width="56" height="41"/>
                                 </variation>
+                                <connections>
+                                    <action selector="operacion:" destination="BYZ-38-t0r" eventType="touchUpInside" id="MGG-S7-4ia"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="R1H-2w-F3t">
                                 <rect key="frame" x="-23" y="-15" width="46" height="30"/>
@@ -181,6 +220,9 @@
                                 <variation key="widthClass=compact" fixedFrame="YES">
                                     <rect key="frame" x="243" y="212" width="56" height="41"/>
                                 </variation>
+                                <connections>
+                                    <action selector="operacion:" destination="BYZ-38-t0r" eventType="touchUpInside" id="iTD-W3-wvz"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="peM-MI-XHT">
                                 <rect key="frame" x="-23" y="-15" width="46" height="30"/>
@@ -192,6 +234,9 @@
                                 <variation key="widthClass=compact" fixedFrame="YES">
                                     <rect key="frame" x="243" y="157" width="56" height="41"/>
                                 </variation>
+                                <connections>
+                                    <action selector="operacion:" destination="BYZ-38-t0r" eventType="touchUpInside" id="nRy-5X-DxV"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="gJt-bU-dHa">
                                 <rect key="frame" x="-23" y="-15" width="46" height="30"/>
@@ -203,6 +248,9 @@
                                 <variation key="widthClass=compact" fixedFrame="YES">
                                     <rect key="frame" x="51" y="157" width="56" height="41"/>
                                 </variation>
+                                <connections>
+                                    <action selector="limpiar:" destination="BYZ-38-t0r" eventType="touchUpInside" id="8Sh-xl-UgQ"/>
+                                </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="MEm-XG-kxv">
                                 <rect key="frame" x="-23" y="-15" width="46" height="30"/>
@@ -226,6 +274,15 @@
                                     <rect key="frame" x="115" y="157" width="56" height="41"/>
                                 </variation>
                             </button>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="AoY-5Q-eVl">
+                                <rect key="frame" x="-42" y="-21" width="42" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                                <variation key="widthClass=compact" fixedFrame="YES">
+                                    <rect key="frame" x="51" y="93" width="248" height="47"/>
+                                </variation>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
                         <variation key="default">
@@ -249,6 +306,7 @@
                                 <exclude reference="gJt-bU-dHa"/>
                                 <exclude reference="MEm-XG-kxv"/>
                                 <exclude reference="QkL-vV-Q9L"/>
+                                <exclude reference="AoY-5Q-eVl"/>
                             </mask>
                         </variation>
                         <variation key="widthClass=compact">
@@ -272,9 +330,13 @@
                                 <include reference="gJt-bU-dHa"/>
                                 <include reference="MEm-XG-kxv"/>
                                 <include reference="QkL-vV-Q9L"/>
+                                <include reference="AoY-5Q-eVl"/>
                             </mask>
                         </variation>
                     </view>
+                    <connections>
+                        <outlet property="resultado" destination="AoY-5Q-eVl" id="134-Kt-S68"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
